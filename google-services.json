@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "156646691512",
+    "firebase_url": "https://summonar-885a5.firebaseio.com",
+    "project_id": "summonar-885a5",
+    "storage_bucket": "summonar-885a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156646691512:android:c542cf7a1f3d00e1399a4d",
+        "android_client_info": {
+          "package_name": "com.android.summonar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156646691512-65rsjmqgis5pmv2hhc5go4h9g0c5kugm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNtC2B-8Y8mHnNzniGR4OCr1cJItLclo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156646691512-65rsjmqgis5pmv2hhc5go4h9g0c5kugm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156646691512:android:3e0068e74668c9f2399a4d",
+        "android_client_info": {
+          "package_name": "com.summon.MyGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156646691512-65rsjmqgis5pmv2hhc5go4h9g0c5kugm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNtC2B-8Y8mHnNzniGR4OCr1cJItLclo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156646691512-65rsjmqgis5pmv2hhc5go4h9g0c5kugm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
